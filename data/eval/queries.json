@@ -1,0 +1,14 @@
+[
+  {
+    "query": "Terdakwa mengambil sepeda motor",
+    "true_case_id": "case_001"
+  },
+  {
+    "query": "Mencuri uang di toko",
+    "true_case_id": "case_002"
+  },
+  {
+    "query": "Merampas handphone dari korban",
+    "true_case_id": "case_003"
+  }
+]
